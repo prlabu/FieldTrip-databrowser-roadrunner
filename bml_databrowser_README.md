@@ -60,3 +60,10 @@ License
 -------
 
 This software is licensed under the [insert license type] license. See the LICENSE file for details.
+
+Keywords
+-------
+electrophysiology, field trip, fieldtrip, matlab, high channel count, large channel count, graphical user interface, electrophysiology raw data, magnetoencephalography, electroencephalography
+
+
+
